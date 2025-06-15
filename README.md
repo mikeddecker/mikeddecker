@@ -20,6 +20,7 @@ Lot's of different things such as:
 - Additional information on computer vision
 - AI agents
 - Extending my knowledge on Design Patterns
+- Data insights
 - ...
 
 
